@@ -3,3 +3,4 @@ def git_operation():
 git_operation()
 
 #1st change to be squashed
+#2nd change to be squashed
